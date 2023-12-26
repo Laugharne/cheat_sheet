@@ -1,5 +1,10 @@
 
+## Solana
+
 [Awesome list of Solana links](https://github.com/csjcode/awesome-solana)
+
+
+## Rust
 
 [Let's Get Rusty - YouTube](https://www.youtube.com/@letsgetrusty/videos)
 
@@ -23,3 +28,9 @@
 
 [ThePrimeagen - YouTube](https://www.youtube.com/@ThePrimeagen/videos)
 
+
+## Solidity
+
+[Cheatsheet — Solidity 0.8.24 documentation](https://docs.soliditylang.org/en/latest/cheatsheet.html)
+
+[Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
