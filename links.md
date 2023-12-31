@@ -1,7 +1,11 @@
+# Links
+
 
 ## Solana
 
 [Awesome list of Solana links](https://github.com/csjcode/awesome-solana)
+
+[Solana Development Tutorial - YouTube](https://www.youtube.com/playlist?list=PL53JxaGwWUqCr3xm4qvqbgpJ4Xbs4lCs7)
 
 
 ## Rust
@@ -33,4 +37,20 @@
 
 [Cheatsheet — Solidity 0.8.24 documentation](https://docs.soliditylang.org/en/latest/cheatsheet.html)
 
+[SOLIDITY - Google Slides](https://docs.google.com/presentation/d/1v3qQhALH3E22JqsgA39s8NJ578lEVanmQIKsXhs6gAE/edit#slide=id.g19a7e23fd69_0_25)
+
 [Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood](https://github.com/ethereumbook/ethereumbook)
+
+
+## ZK / Rollup
+
+[Zero Knowledge Proof - YouTube](https://www.youtube.com/watch?v=_5VcPzBQwbs)
+
+[Comprendre les Rollups - Google Slides](https://docs.google.com/presentation/d/1pU1qf6HmheVAqaUR_WNtyQB2ameQLcgmi7xhUqQEjwc/edit#slide=id.p)
+
+[Zero-knowledge proof - Google Slides](https://docs.google.com/presentation/d/1_c9OAKWnJAslho4xszCFm04KK41uFR8blJSIsjeroFM/edit#slide=id.p)
+
+
+## DeFi
+
+[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://lecascyril.notion.site/Lexique-DeFi-c307b62a553744e4acde505637a1e3a6)
