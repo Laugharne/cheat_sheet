@@ -10,6 +10,8 @@
 
 ## Rust
 
+[Awesome ethers-rs & rust in web3](https://github.com/chalex-eth/awesome-ethers-rs)
+
 [Let's Get Rusty - YouTube](https://www.youtube.com/@letsgetrusty/videos)
 
 [No Boilerplate - YouTube](https://www.youtube.com/@NoBoilerplate/videos)
