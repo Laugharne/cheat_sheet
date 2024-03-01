@@ -34,6 +34,8 @@
 
 [ThePrimeagen - YouTube](https://www.youtube.com/@ThePrimeagen/videos)
 
+[Curated list of awesome projects and resources related to Rust and computer security](https://github.com/ex0dus-0x/awesome-rust-security)
+
 
 ## Solidity
 
