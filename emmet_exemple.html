@@ -1,0 +1,150 @@
+<!-- Le Doctype, ! + tab / entrée -->
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Raccourcis Emmet</title>
+
+	<!-- Link -->
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	
+
+
+div.maClasse.c2.c3.c4#monId
+
+
+	<!-- div.classe / .classe -->
+	<!-- div#monId / #monId -->
+	<!-- div.maClasse.c2.c3.c4#monId -->
+	<!-- Vous pouvez attacher plusieurs classes -->
+
+	<div id="monId" class="maClasse c2 c3 c4"></div>
+
+
+
+	<!-- Générateur de lorem ipsum, lorem50 -->
+
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio dolorem incidunt amet modi soluta libero, error, labore repellendus cupiditate tempore natus, nulla eius aliquam nesciunt?
+
+
+
+	<!-- Tous les éléments HTML -->
+
+	<div></div>
+	<p></p>
+	<input type="text">
+
+
+	
+	<!-- ftr -> footer, hdr -> header,  bq = blockquote, btn -> button -->
+
+	<footer></footer>
+	<header></header>
+	<blockquote></blockquote>
+	<button></button>
+
+
+	
+	<!-- Compositions plus complexes -->
+
+	<!-- Liste : ul>li.item*6 -->
+
+	<ul>
+		<li class="item"></li>
+		<li class="item"></li>
+		<li class="item"></li>
+		<li class="item"></li>
+		<li class="item"></li>
+		<li class="item"></li>
+	</ul>
+
+
+
+
+	<!-- Liste avec index sur les items : ul>li.item.item$*6 -->
+
+	<ul>
+		<li class="item item1"></li>
+		<li class="item item2"></li>
+		<li class="item item3"></li>
+		<li class="item item4"></li>
+		<li class="item item5"></li>
+		<li class="item item6"></li>
+	</ul>
+
+
+
+	<!-- Contenu {moncontenu} : 
+		 h1{hello world} 
+		 ul>li{item$}.item*6
+	-->
+
+	<h1>Hello world</h1>
+
+	<ul>
+		<li class="item">item1</li>
+		<li class="item">item2</li>
+		<li class="item">item3</li>
+		<li class="item">item4</li>
+		<li class="item">item5</li>
+		<li class="item">item6</li>
+	</ul>
+
+
+	<!-- Élément de même niveau avec "+" :
+	h1{Liste de courses}+ul>li.item.item$*6
+	-->
+
+	<h1>Liste de course</h1>
+	<ul>
+		<li class="item item1"></li>
+		<li class="item item2"></li>
+		<li class="item item3"></li>
+		<li class="item item4"></li>
+		<li class="item item5"></li>
+		<li class="item item6"></li>
+	</ul>
+
+
+
+	<!-- Monter d'un étage avec "^" 
+		 h1{Liste de courses}+ul>li.item.item$*6^button{Payer maintenant}
+	-->
+
+	<h1>Liste de courses</h1>
+	<ul>
+		<li class="item item1"></li>
+		<li class="item item2"></li>
+		<li class="item item3"></li>
+		<li class="item item4"></li>
+		<li class="item item5"></li>
+		<li class="item item6"></li>
+	</ul>
+	<button>Payer maintenant</button>
+
+
+
+
+
+	<!-- Faire des groupes avec "()" 
+		 nav+(header>ul>li*2>a)+footer
+	-->
+
+	<nav></nav>
+	<header>
+		<ul>
+			<li><a href=""></a></li>
+			<li><a href=""></a></li>
+		</ul>
+	</header>
+	<footer></footer>
+
+
+
+
+</body>
+</html>
